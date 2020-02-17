@@ -14,6 +14,8 @@ The goals of this challenge are for you to:
 3. Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn.
 4. Create some plots and data tables to present your results.
 
+**[Click here](https://github.com/jbtrahin/Cryptocurrencies/tree/master/Challenge)** to access challenge files.
+
 ## Resources
 
 - Software: Visual Studio Code 1.39.0, Jupyter Notebook 6.0.3
